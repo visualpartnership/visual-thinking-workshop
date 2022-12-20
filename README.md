@@ -7,6 +7,7 @@ Content and illustrations by **@carlogilmar**. ⭐️
 | Topic                                  |
 |----------------------------------------|
 | Trainer Experience |
+| About this training |
 | 1. How to follow this workshop?               |
 | 2. Introduction to Visual Thinking        |
 | 3. Part I: Build your iconography 🎨      |
@@ -40,7 +41,7 @@ Hi! I'm **Carlo Gilmar**, the creator of this content to learn Visual Thinking. 
 - I designed the **Code BEAM t-shirts** for America and Stockholm editions in 2022.
 - My work as graphic recorder for tech conferences is supported by the **GitHub Sponsors** program. 
 
-**About this training:**
+## About this training
 
 You can follow this activities and exercises by **yourself**, or you're open to do it with your friends or your **teammates** to share results. Even you can use this workshop in **your company or school**. My mission is **promote this kind of content and contribute to the community**. If you need guidance or a trainer to complement this experience, feel free to reach me out: carlogilmar12@gmail.com
 
