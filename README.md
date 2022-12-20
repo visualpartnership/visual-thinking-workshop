@@ -21,6 +21,8 @@ Content and illustrations by **@carlogilmar**. ⭐️
 
 Hi! I'm **Carlo Gilmar**, the creator of this content to learn Visual Thinking. 😁
 
+<details>
+  <summary>More about me here! </summary>
 **About me:**
 
 - I'm software engineer at **Erlang Solutions**.
@@ -39,8 +41,9 @@ Hi! I'm **Carlo Gilmar**, the creator of this content to learn Visual Thinking. 
 - I made all the drawings included in the **"Historia de los lenguajes de programación"** writted by Manuel Rubio.
 - I designed the logos for the **Octogatos Conf 2022, ESL Americas Jaguars office and the Dev Rel Con LATAM.**
 - I designed the **Code BEAM t-shirts** for America and Stockholm editions in 2022.
-- My work as graphic recorder for tech conferences is supported by the **GitHub Sponsors** program. 
-
+- My work as graphic recorder for tech conferences is supported by the **GitHub Sponsors** program.
+</details>
+ 
 ## About this training
 
 You can follow this activities and exercises by **yourself**, or you're open to do it with your friends or your **teammates** to share results. Even you can use this workshop in **your company or school**. My mission is **promote this kind of content and contribute to the community**. If you need guidance or a trainer to complement this experience, feel free to reach me out: carlogilmar12@gmail.com
