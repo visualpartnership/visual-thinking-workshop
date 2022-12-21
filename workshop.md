@@ -12,7 +12,7 @@
 | Extended Version and more resources    |
 | Closing Notes                            |
 
-# 2. Introduction to Visual Thinking
+# 1. Introduction to Visual Thinking
 
 What is **Visual Thinking**?
 
@@ -29,7 +29,7 @@ This ability as any other one, needs time and experience to improve. During this
 
 What can you learn and achieve using Visual Thinking in your day by day? Clarity and order. 
 
-# 3. Part I: Build your iconography 
+# 2. Part I: Build your iconography 
 
 ![image](https://user-images.githubusercontent.com/17634377/208791385-cf1936ba-cd50-4d8c-8d8c-1472086eeb57.png)
 
@@ -97,7 +97,7 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/17634377/208791583-c6950eb5-1c90-4706-88f0-15f1a644bbf8.png)
 
-# 4. Part II: Develop your active listening
+# 3. Part II: Develop your active listening
 
 ## Activity 4: Capture ideas
 
@@ -141,7 +141,7 @@ Notes:
 
 ![image](https://user-images.githubusercontent.com/17634377/208791634-89c7679a-7030-4778-9171-5da0ec7f465b.png)
 
-# 5. Part III: The graphic recording
+# 4. Part III: The graphic recording
 
 ## Activity 7: Order your active listening
 
@@ -165,21 +165,21 @@ Notes:
 4. The goal is create a visual interpretation of your understanding of the video. You can play the video again as many times as you want.
 5. Add arrows and other notes.
 
-# 6. Why to develop your Visual Thinking?
+# 5. Why to develop your Visual Thinking?
 
 ![image](https://user-images.githubusercontent.com/17634377/208791685-6276b99f-63a8-40c7-9902-e3e42c12b011.png)
 
 TBD
 
 
-# 7. Extended Version
+# Extended Version
 
 ![image](https://user-images.githubusercontent.com/17634377/208791752-14c3cc2b-a1a5-468a-b484-1d039352b64c.png)
 
 TBD
 
 
-# 8. Closing Notes
+# Closing Notes
 
 ![image](https://user-images.githubusercontent.com/17634377/208791781-cbf912ee-c240-443d-902f-e2c39f3baeeb.png)
 
