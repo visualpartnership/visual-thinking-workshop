@@ -135,6 +135,9 @@ Examples:
 4. In 3 minutes draw all the words starting with the letter selected. You have to draw many drawings as you can, they don't have to be perfect. 
 5. Repeat this 3 times. 
 
+Example:
+![Ilustración_sin_título 7](https://user-images.githubusercontent.com/17634377/208994268-3c850619-a484-4d14-9b4c-97b12c4530e9.png)
+
 <details>
   <summary> After finish the activity </summary>
   
