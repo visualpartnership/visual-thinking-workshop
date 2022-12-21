@@ -169,22 +169,72 @@ Notes:
 
 ![image](https://user-images.githubusercontent.com/17634377/208791685-6276b99f-63a8-40c7-9902-e3e42c12b011.png)
 
-TBD
+Visual Thinking help us to build visual tools to improve our understanding capabilities and communication skills. All of this activities were designed to show you how to start to develop this skill for you, but it's just the beginning. 
 
+The most basic level of Visual Thinking is make conscious about your mental process to understand, order and structure knowledge. You need to be provided of a set of drawings skills to generate your own sketches. This level is not about drawing beautiful illustrations for others, it's about drawing symbolic sketches to help you to boots your understanding. 
+
+The first part was about create a relationship between you and the drawing through simple exercises to visualize music, create icons and visuals. The second part was about develop your active listening, because in Visual Thinking we need all your senses working at the same time. The last part it's a summarize of all the previous activities step by step, creating a visual interpretation is what a graphic recording is. All the previous techniques are just tools that you can learn and improve to use together at the same time for any propose. 
+
+Visual Thinking is a skill to connect with you. You need to be sincere and honest with your processes, and work from there to improve it. Visual Thinking could boots any other kind of knowledge, and it's a great combination in technology environments. 
+
+Some ideas about where to apply this techniques:
+
+- Create visual summaries in meetings.
+- Product discovery processes, you can document all the flows about this.
+- Information flows, you can sketch entities and information exchange to clarify flows.
+- Graphic Recordings in conferences.
+- Sketch software components.
+- Create presentation skeletons.
+- Complement documentation with visual summaries. 
 
 # Extended Version
 
 ![image](https://user-images.githubusercontent.com/17634377/208791752-14c3cc2b-a1a5-468a-b484-1d039352b64c.png)
 
-TBD
+If you want more exercises to learn Visual Thinking, please visit the Extended Version:
+
+<a href="https://github.com/carlogilmar/visual-thinking-workshop/blob/main/extended-version.md"><img src="https://img.shields.io/badge/🔗link-EXTENDEDVERSION-blue?style=for-the-badge"></a> 👈
 
 
 # Closing Notes
 
 ![image](https://user-images.githubusercontent.com/17634377/208791781-cbf912ee-c240-443d-902f-e2c39f3baeeb.png)
 
-TBD
+If you finish all or just some activities, please consider:
 
-![](https://user-images.githubusercontent.com/17634377/208781041-ed5f1286-ae73-46c9-831a-839197e93df5.png)
+- Put a star ⭐️ in this repository. (This will help me to know how many people are doing this workshop)
+- Share your exercises on Twitter including `@visual_partner`. I'll be happy to see your activities and even give you feedback.
+- If you have feedback to share, you can open an issue in this repository.
+- Feel free to reach me out to give you feedback. 
+- Stay tuned in social media for more workshops.
+
+Congratulations! Thanks for follow this workshop, I hope teach you something new and interesting and see you soon in another workshop.
+
+Devices and apps recommended:
+
+- iPad
+- Procreate
+- Adobe Fresco
+
+Drawing Courses:
+
+- [Dibujo para princiantes](https://www.domestika.org/es/courses/138-dibujo-para-principiantes-nivel-1)
+- [Metodología de trabajo en libretas de dibujo](https://www.domestika.org/es/courses/1967-metodologia-de-trabajo-en-libretas-de-dibujo/course)
+
+Procreate Courses:
+
+- [Art with Flo](https://www.youtube.com/@ArtwithFlo)
+- [Procreate técnicas de ilustración creativa](https://www.domestika.org/es/courses/946-procreate-tecnicas-de-ilustracion-creativa/course)
+- [Composición creativa para ilustración en Procreate](https://www.domestika.org/es/courses/1509-composicion-creativa-para-ilustracion-con-procreate/course)
+- [Diseño e ilustración digital de tatuajes en Procreate](https://www.domestika.org/es/courses/468-diseno-e-ilustracion-digital-de-tatuajes-con-procreate/course)
+
+Visual Thinking resources:
+
+- [Visual Thinking Domestika](https://www.domestika.org/es/courses/3825-visual-thinking-organiza-y-presenta-ideas-potentes)
+- [Pataleta](https://pataleta.net/aprendizaje/)
+- [Visual Thinking: Empowering People & Organizations Through Visual Collaboration](https://www.amazon.com.mx/Visual-Thinking-Empowering-Organizations-Collaboration/dp/9063694539)
+- [Visual Thinking Rudolf Arnheim](https://www.amazon.com.mx/Visual-Thinking-Rudolf-Arnheim/dp/0520242262/)
+- General Theory Systems by Bertanlanffy
+- Drawing a Hypothesis by Nikolaus Gansterer
 
 Content by @carlogilmar. January 2023.
