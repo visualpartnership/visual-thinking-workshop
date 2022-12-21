@@ -73,9 +73,9 @@ You'll find the activities completed in every topic to help you to have a refere
 
 Happy drawing! 🚀
 
-You can start the workshop in the following link: [Start workshop 🎨](workshop.md)
+You can start the workshop in the following link:
 
-<a href="https://github.com/carlogilmar/visual-thinking-workshop/blob/main/workshop.md"><img src="https://img.shields.io/badge/🔗link-WORKSHOP-blue?style=for-the-badge"></a>
+<a href="https://github.com/carlogilmar/visual-thinking-workshop/blob/main/workshop.md"><img src="https://img.shields.io/badge/🔗link-WORKSHOP-blue?style=for-the-badge"></a> 👈
 
 ![](https://user-images.githubusercontent.com/17634377/208781041-ed5f1286-ae73-46c9-831a-839197e93df5.png)
 
