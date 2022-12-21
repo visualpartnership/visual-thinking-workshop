@@ -55,11 +55,7 @@ You can follow this activities and exercises by **yourself**, or you're open to 
 
 You can't reproduce totally or partially this content without an explicit permission by the creator. This content is under GPL-3.0 license.
 
-Audience:
-
-This workshop is open to anyone interested on learn Visual Thinking, **you don't need any requirements to do all the activities**. 
-
-This training is for a **basic level**. 
+This workshop is open to anyone interested on learn Visual Thinking, **you don't need any requirements to do all the activities**. This training is for a **basic level**. 
 
 ## 1. How to follow this workshop?
 
@@ -178,23 +174,45 @@ Please read first the instructions and read the last point, follow the activity.
 
 # 5. Part III: The graphic recording
 
-TBD
+## Activity 7: Order your active listening
 
-![image](https://user-images.githubusercontent.com/17634377/208791685-6276b99f-63a8-40c7-9902-e3e42c12b011.png)
+1. Take a paper sheet.
+2. Open the next video [History of Databases | Computer History Museum](https://www.youtube.com/watch?v=KG-mqHoXOXY).
+3. Use the following design in your sheet.
+4. Play the video and fill the sheet with all the ideas that you're hearing.
+5. After finish your sketch, select the most important ideas for you.
+
+## Activity 8: Draw your visual dictionary
+
+1. Take a sheet.
+2. Use the ideas selected by you from the last activity.
+3. Draw icons for every idea.
+
+## Actitivy 9: The Graphic Recording
+
+1. Take a sheet.
+2. Draw the 5 most important ideas from the last activity.
+3. Add the complementary ideas from the video close to the main idea. You can use text or icons or both.
+4. The goal is create a visual interpretation of your understanding of the video. You can play the video again as many times as you want.
+5. Add arrows and other notes.
 
 # 6. Why to develop your Visual Thinking?
 
+![image](https://user-images.githubusercontent.com/17634377/208791685-6276b99f-63a8-40c7-9902-e3e42c12b011.png)
+
 TBD
 
-![image](https://user-images.githubusercontent.com/17634377/208791752-14c3cc2b-a1a5-468a-b484-1d039352b64c.png)
 
 # 7. Extended Version
 
+![image](https://user-images.githubusercontent.com/17634377/208791752-14c3cc2b-a1a5-468a-b484-1d039352b64c.png)
+
 TBD
 
-![image](https://user-images.githubusercontent.com/17634377/208791781-cbf912ee-c240-443d-902f-e2c39f3baeeb.png)
 
 # 8. Closing Notes
+
+![image](https://user-images.githubusercontent.com/17634377/208791781-cbf912ee-c240-443d-902f-e2c39f3baeeb.png)
 
 TBD
 
