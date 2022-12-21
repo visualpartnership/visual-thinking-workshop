@@ -107,7 +107,9 @@ Please read first the instructions and read the last point, follow the activity.
 5. Take the second sheet, and now open the second video [Bohemian Rapsody](https://www.youtube.com/watch?v=095xkqjGhsY).
 6. Again, close your eyes, and while the video it's playing, use your hand to write your sensations about the song.
 
-Example:
+![workshop](https://user-images.githubusercontent.com/17634377/208991372-9509bc80-6d7d-4246-bc75-a70d999e18a8.gif)
+
+Examples:
 
 ![](https://user-images.githubusercontent.com/17634377/208990319-dbe9af51-976f-465d-946b-ee51134ca7b3.PNG)
 
