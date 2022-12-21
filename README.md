@@ -153,7 +153,26 @@ Please read first the instructions and read the last point, follow the activity.
 
 # 4. Part II: Develop your active listening
 
-TBD
+## Activity 4: Capture ideas
+
+1. Take a sheet for this activity.
+2. Open the next video: [Who Invented the Computer? | Computer History Museum](https://www.youtube.com/watch?v=d1pvc9Zh7Tg&list=PLQsxaNhYv8dbK3yMHXk35jtZFdu7o46gu&index=5)
+3. Please write a bullet list of all the ideas that you're listening as many as you can. This exercise is about your ability to listen ideas.
+
+## Activity 5: Drawing concepts
+
+1. Take a sheet for this exercise. 
+2. Use your previous list of ideas, select the most important ideas for you.
+3. Try to sketch an icon for every idea select for you, remember this icon is for you to connect drawings and ideas.
+4. You can use your visual dictionary.
+
+## Activity 6: Clustering ideas
+
+1. Take a sheet for this.
+2. From your previous activity, select the 3 most important ideas from the video.
+3. In your new sheet, draw again the 3 ideas.
+4. Watch again the video [Who Invented the Computer? | Computer History Museum](https://www.youtube.com/watch?v=d1pvc9Zh7Tg&list=PLQsxaNhYv8dbK3yMHXk35jtZFdu7o46gu&index=5).
+5. Now please write just the ideas related to your 3 main ideas, the idea is complement this sheet with the ideas to complement the speech. You don't have to write all the sentences, just the most important ones. 
 
 ![image](https://user-images.githubusercontent.com/17634377/208791634-89c7679a-7030-4778-9171-5da0ec7f465b.png)
 
