@@ -210,6 +210,12 @@ If you finish all or just some activities, please consider:
 
 Congratulations! Thanks for follow this workshop, I hope teach you something new and interesting and see you soon in another workshop.
 
+Remember this are a set of techniques that needs time and a lot of practice. Be patient, specially with the drawing most of the people think that they need to draw beautiful illustrations, we're using the drawing as an skill to connect with ourselfs and with other ones, we don't need the most beautiful content because the most important part it's the content by itself. We're learning how to visualize our internal processes (emotional and mental). We're learning how to connect from other parts. Interesnting isn't it?
+
+Keep drawing and tag me on social medio to see your progress! See you! 😊
+
+## Tooling and more resources
+
 Devices and apps recommended:
 
 - iPad
