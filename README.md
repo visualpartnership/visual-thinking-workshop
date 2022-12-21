@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/17634377/208781041-ed5f1286-ae73-46c9-831a-839197e93df5.png)
+![image](https://user-images.githubusercontent.com/17634377/208792484-e627274b-85cc-4959-928e-6661d301ecfd.png)
 
 # Visual Thinking Workshop for developers 🎨
 
@@ -127,3 +127,7 @@ TBD
 # 8. Closing Notes
 
 TBD
+
+![](https://user-images.githubusercontent.com/17634377/208781041-ed5f1286-ae73-46c9-831a-839197e93df5.png)
+
+Content by @carlogilmar. January 2023.
