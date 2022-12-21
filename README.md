@@ -92,11 +92,62 @@ Visual Thinking is the ability to connect with other parts of you and improve yo
 This ability as any other one, needs time and experience to improve. During this workshop you'll learn just the basics.
 ![image](https://user-images.githubusercontent.com/17634377/208790566-c8ad9edd-f141-48f4-8eec-704a37fe6d6b.png)
 
-![image](https://user-images.githubusercontent.com/17634377/208791385-cf1936ba-cd50-4d8c-8d8c-1472086eeb57.png)
+What can you learn and achieve using Visual Thinking in your day by day? Clarity and order. 
 
 # 3. Part I: Build your iconography 
 
-TBD
+![image](https://user-images.githubusercontent.com/17634377/208791385-cf1936ba-cd50-4d8c-8d8c-1472086eeb57.png)
+
+> It's important remark Visual Thinking has many levels of application. For this workshop we're waiting to show you how to develop the basic skills, during all the activites you'll draw and apply techniques to show you how to draw just for you, this is the basic level. When we think about drawing, we use to think in beautiful illustrations because we connect drawing with aesthetic images, but for us, we need practical drawings, significant sketches that allow you to connect ideas, even if the drawings are not the most beautiful. So don't worry about your drawing skills, this is the best space for practice.
+
+Please read first the instructions and read the last point, follow the activity.
+
+## Activity 1: Visualize flows
+
+1. You're going to use two sheets.
+2. Take one sheet and a marker (It doesn't matter which color).
+3. Open the first video [Suite - Psicosis](https://www.youtube.com/watch?v=fU8qpU6m3Fk).
+4. Close your eyes, while the video it's playing use your hand to start to write your sensations about the song. Feel free to use all the space available. 
+5. Take the second sheet, and now open the second video [Bohemian Rapsody](https://www.youtube.com/watch?v=095xkqjGhsY).
+6. Again, close your eyes, and while the video it's playing, use your hand to write your sensations about the song.
+
+<details>
+  <summary> After finish the activity </summary>
+  
+  ## Resume 
+  > What do you feel about drawing your sensations about this songs? The first one it's a famous song from Psicosis, a popular film, while the second song it's more emotive and happy. What are the diffence between both exercises?
+  
+  Takeaways 🏆:
+  - For this activity you should close your eyes, because you need to work with your other senses like the active listening and the drawing by your hands. 
+  - The scribbles are just a visualization of how you're feeling the music. Music allow us to connect better with emotions. We need to develop this connection.
+  - What about practice this during a meeting? Could you visualize your emotions? 
+</details>
+
+## Activity 2: Build iconography 
+
+1. Open the following app that help us to choose a random letter [Letter Picker Wheel](https://pickerwheel.com/tools/random-letter-generator/).
+2. Take another sheet for this exercise. 
+3. Choose a random letter.
+4. In 3 minutes draw all the words starting with the letter selected. You have to draw many drawings as you can, they don't have to be perfect. 
+5. Repeat this 3 times. 
+
+<details>
+  <summary> After finish the activity </summary>
+  
+  ## Resume 
+  > Visual Thinking it's practical, so we need to develop this skill and this activity it's about that. Although the first part is about think in all the words with the letter, the hard part comes when you have to draw that words, but in that short time you should be able to start to connect quickly meanings with drawings, that's the skill that we need! I recommend you practice this many times as possible.  
+  
+  Takeaways 🏆:
+  - How easy or hard it's drawing practical icons? Sometimes it's hard find references about icons, I recomment you find your words here: [Flaticon Icons](https://www.flaticon.es/)
+  - Using timers involve another kind of complexity, but we're learninig and we need this just to show to us how we're working in a short period of time. This could give us better metrics about our progress. 
+  - Remember, we need easy and practical drawings to represent words.
+</details>
+
+## Activity 3: Build your visual dictionary
+
+1. Take a sheet for this exercise.
+2. Try to draw your own version of the following image.
+3. Save this sheet as your visual dictionary. 
 
 ![image](https://user-images.githubusercontent.com/17634377/208791583-c6950eb5-1c90-4706-88f0-15f1a644bbf8.png)
 
