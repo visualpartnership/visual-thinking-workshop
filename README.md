@@ -57,11 +57,13 @@ You can't reproduce totally or partially this content without an explicit permis
 
 This workshop is open to anyone interested on learn Visual Thinking, **you don't need any requirements to do all the activities**. This training is for a **basic level**. 
 
-## 1. How to follow this workshop?
+## How to follow this workshop?
 
-Please read and understand topic **2 Introduction to Visual Thinking** as the introduction about the whole training. The next topics **(Part I, Part II and Part III)** are the practical part of the training, you'll find exercises to follow and some explanations. You'll need to take your time to do all the activities **(around 90 min)**. It's important mention for a complete understanding you'll need to complete all the activities in order.
+Please read and understand topic **1) Introduction to Visual Thinking** as the introduction about the whole training. The next topics **(Part I, Part II and Part III)** are the practical part of the training, you'll find exercises to follow and some explanations. You'll need to take your time to do all the activities **(around 120 min)**. It's important mention for a complete understanding you'll need to complete all the activities in order.
 
-To summarize all the activites we have the topic **6 Why to develop your Visual Thinking?**. If you want to continue learning more, you'll find more activities to complement your understanding in topic **7. Extended Version and more resources**. And finally we're going to close in the last bullet point.
+To summarize all the activites we have the topic **5) Why to develop your Visual Thinking?**. If you want to continue learning more, you'll find more activities to complement your understanding in topic **Extended Version and more resources**. And finally we're going to close in the last bullet point.
+
+You'll find the activities completed in every topic to help you to have a reference to compare or support yours.
 
 **Requeriments:**
 
