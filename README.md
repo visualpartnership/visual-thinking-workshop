@@ -175,6 +175,13 @@ Example:
 3. Try to sketch an icon for every idea select for you, remember this icon is for you to connect drawings and ideas.
 4. You can use your visual dictionary.
 
+Notes:
+- Search on google images about the computers mentioned to take as reference.
+- Take your time, and be practical, you don't have to draw in detail, just put your own references for you.
+- You can use the following example as reference to draw your icons.
+
+![Ilustración_sin_título 9](https://user-images.githubusercontent.com/17634377/209006340-bdc7a9db-838d-4872-b950-aa39a16103d0.png)
+
 ## Activity 6: Clustering ideas
 
 1. Take a sheet for this.
