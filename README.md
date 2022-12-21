@@ -92,4 +92,38 @@ Visual Thinking is the ability to connect with other parts of you and improve yo
 This ability as any other one, needs time and experience to improve. During this workshop you'll learn just the basics.
 ![image](https://user-images.githubusercontent.com/17634377/208790566-c8ad9edd-f141-48f4-8eec-704a37fe6d6b.png)
 
+![image](https://user-images.githubusercontent.com/17634377/208791385-cf1936ba-cd50-4d8c-8d8c-1472086eeb57.png)
 
+# 3. Part I: Build your iconography 
+
+TBD
+
+![image](https://user-images.githubusercontent.com/17634377/208791583-c6950eb5-1c90-4706-88f0-15f1a644bbf8.png)
+
+# 4. Part II: Develop your active listening
+
+TBD
+
+![image](https://user-images.githubusercontent.com/17634377/208791634-89c7679a-7030-4778-9171-5da0ec7f465b.png)
+
+# 5. Part III: The graphic recording
+
+TBD
+
+![image](https://user-images.githubusercontent.com/17634377/208791685-6276b99f-63a8-40c7-9902-e3e42c12b011.png)
+
+# 6. Why to develop your Visual Thinking?
+
+TBD
+
+![image](https://user-images.githubusercontent.com/17634377/208791752-14c3cc2b-a1a5-468a-b484-1d039352b64c.png)
+
+# 7. Extended Version
+
+TBD
+
+![image](https://user-images.githubusercontent.com/17634377/208791781-cbf912ee-c240-443d-902f-e2c39f3baeeb.png)
+
+# 8. Closing Notes
+
+TBD
