@@ -166,6 +166,8 @@ Example:
 2. Open the next video: [Who Invented the Computer? | Computer History Museum](https://www.youtube.com/watch?v=d1pvc9Zh7Tg&list=PLQsxaNhYv8dbK3yMHXk35jtZFdu7o46gu&index=5)
 3. Please write a bullet list of all the ideas that you're listening as many as you can. This exercise is about your ability to listen ideas.
 
+![Ilustración_sin_título 8](https://user-images.githubusercontent.com/17634377/209000324-d37ceeb6-dbe6-4a95-88c4-37ad4e61a9ec.png)
+
 ## Activity 5: Drawing concepts
 
 1. Take a sheet for this exercise. 
