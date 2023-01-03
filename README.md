@@ -65,6 +65,10 @@ To summarize all the activites we have the topic **5) Why to develop your Visual
 
 You'll find the activities completed in every topic to help you to have a reference to compare or support yours.
 
+## Important ⚠️
+
+You're not authorized to use this content to create paid workshops. This content was created for community usage.
+
 **Requeriments:**
 
 - Paper sheets (9) (any kind of paper works).
@@ -75,7 +79,7 @@ Happy drawing! 🚀
 
 You can start the workshop in the following link:
 
-<a href="https://github.com/carlogilmar/visual-thinking-workshop/blob/main/workshop.md"><img src="https://img.shields.io/badge/🔗link-WORKSHOP-blue?style=for-the-badge"></a> 👈
+<a href="https://github.com/visualpartnership/visual-thinking-workshop/blob/main/workshop.md"><img src="https://img.shields.io/badge/🔗link-WORKSHOP-blue?style=for-the-badge"></a> 👈
 
 ![](https://user-images.githubusercontent.com/17634377/208781041-ed5f1286-ae73-46c9-831a-839197e93df5.png)
 
